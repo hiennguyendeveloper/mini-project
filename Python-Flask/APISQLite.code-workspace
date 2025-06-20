@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../APISQLite"
+		},
+		{
+			"path": "../Companies_sqlite"
+		},
+		{
+			"path": "../SQLite_API"
+		},
+		{
+			"path": "../../ULL/NASA"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../ProjectCGI"
+		}
+	]
+}
